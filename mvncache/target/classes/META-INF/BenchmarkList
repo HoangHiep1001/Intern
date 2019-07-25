@@ -1,0 +1,6 @@
+JMH S 8 main.Ben S 36 main.generated.Ben_longAdder_jmhTest S 9 longAdder S 11 AverageTime E A 1 1 1 E I 1 1 E E E E E I 1 1 I 1 1 E E E E M 1 8 listSize 3 7 1000000 8 10000000 9 100000000 E E E 
+JMH S 8 main.Ben S 40 main.generated.Ben_longStreamSum_jmhTest S 13 longStreamSum S 11 AverageTime E A 1 1 1 E I 1 1 E E E E E I 1 1 I 1 1 E E E E M 1 8 listSize 3 7 1000000 8 10000000 9 100000000 E E E 
+JMH S 8 main.Ben S 39 main.generated.Ben_volatileLong_jmhTest S 12 volatileLong S 11 AverageTime E A 1 1 1 E I 1 1 E E E E E I 1 1 I 1 1 E E E E M 1 8 listSize 3 7 1000000 8 10000000 9 100000000 E E E 
+JMH S 8 main.Ben S 37 main.generated.Ben_atomicLong_jmhTest S 10 atomicLong S 11 AverageTime E A 1 1 1 E I 1 1 E E E E E I 1 1 I 1 1 E E E E M 1 8 listSize 3 7 1000000 8 10000000 9 100000000 E E E 
+JMH S 9 main.Test S 32 main.generated.Test_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 8 main.App S 31 main.generated.App_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
